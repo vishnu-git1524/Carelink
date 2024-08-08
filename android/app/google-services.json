@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691846870246",
+    "project_id": "carelink-14a40",
+    "storage_bucket": "carelink-14a40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691846870246:android:ad4651efec8309514cb727",
+        "android_client_info": {
+          "package_name": "com.example.carelink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691846870246-dc8htd8t0sanvalg7ejc4a2phsoteiv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carelink",
+            "certificate_hash": "8cc712affc8d7cca2f0fa7b5f507b39282e467b4"
+          }
+        },
+        {
+          "client_id": "691846870246-ja927m62313b6aq4jvo0bpvr3arplure.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvNjezwD7m8yI7YVNituFeo0LQ4YjXw00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691846870246-ja927m62313b6aq4jvo0bpvr3arplure.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
